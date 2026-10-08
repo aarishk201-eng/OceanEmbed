@@ -129,4 +129,4 @@ After Phase 6:
 streamlit run src/dashboard/app.py
 ```
 
-Open http://localhost:8501.
+Open http://localhost:8501. 
